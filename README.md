@@ -1,0 +1,2 @@
+- created from https://github.com/mikolalysenko/robust-point-in-polygon, then broswerify
+- to use in Angular, call window.classifyPoint()
