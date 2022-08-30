@@ -1,0 +1,7 @@
+{
+  "name": "polypoint-browserify",
+  "main": "./polypoint.js",
+  "author": "IncentFit",
+  "homepage": "https://github.com/incentfit/polypoint-browserify",
+  "version": "1.0.0"
+}
